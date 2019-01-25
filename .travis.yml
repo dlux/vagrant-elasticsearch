@@ -1,0 +1,7 @@
+language: python
+install:
+  - pip install bashate
+script:
+  - bashate beats.sh
+  - bashate elasticsearch.sh
+  - bashate kibana.sh
