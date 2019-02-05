@@ -25,4 +25,4 @@ popd
 brepo="https://artifacts.elastic.co/downloads/beats"
 curl -L -O $brepo/metricbeat/metricbeat-6.5.4-x86_64.rpm
 sudo rpm -vi metricbeat-6.5.4-x86_64.rpm
- 
+
