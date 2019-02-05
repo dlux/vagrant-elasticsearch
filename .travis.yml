@@ -3,5 +3,5 @@ install:
   - pip install bashate
 script:
   - bashate beats.sh
-  - elks-aio.sh
-  - reup.sh
+  - bashate elks-aio.sh
+  - bashate reup.sh
