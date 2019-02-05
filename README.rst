@@ -1,8 +1,9 @@
 Vagrant configurations tio have an Elastic-Stack (ELKS)
 ======================================================
 
-.. image:: https://travis-ci.org/dlux/vagrant-elasticstack.svg?branch=master
-    :target: https://travis-ci.org/dlux/vagrant-elasticstack
+.. image:: https://travis-ci.com/dlux/vagrant-elasticstack.svg?branch=master
+    :alt: Build Status @ Travis
+    :target: https://travis-ci.com/dlux/vagrant-elasticstack
 
 Overview
 --------
