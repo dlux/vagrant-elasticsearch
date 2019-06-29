@@ -23,7 +23,7 @@ Vagrant.configure("2") do |config|
   end
 
   # Set common configuration
-  config.vm.box = 'bento/centos-7.4'
+  config.vm.box = 'centos/7'
   config.vm.box_check_update = false
 
   # Create and configure ELKS infra nodes
